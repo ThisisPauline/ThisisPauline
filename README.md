@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThisisPauline
-- 👀 I’m interested in developing a network of like-minded developers interested in the environment, queer and LGBTQ issues and menal health awarness
+- 👀 I’m interested in developing a network of like-minded developers interested in the environment, queer and LGBTQ issues and mental health awarness
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate with businesses in Germany as a front-end developer
 - 📫 How to reach me: you can contact me at kraus.pauline1@gmail.com
