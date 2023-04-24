@@ -1,7 +1,12 @@
-# <img src="https://portfolio-thisispauline.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdonut-blue.522058c8.png&w=640&q=75" height="100" width="100" /> Hi, I'm Pauline
+# <img src="https://portfolio-thisispauline.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdonut-blue.522058c8.png&w=640&q=75" height="80" width="80" /> Hi, I'm Pauline
 
 ![banner](https://i.imgur.com/fzSCYCt.jpg)
+<br /><br />
 
+> **Find me:** <a target="_blank" href="https://www.linkedin.com/in/pauline-kraus/"><b>LinkedIn</b></a>  | <a target="_blank" href="https://portfolio-thisispauline.vercel.app/"><b>My Website</b></a><br />
+> **Learn more about me:** <a target="_blank" href="https://drive.google.com/file/d/1Cs35SU6-t5wk9ONO05Gsa5H9-cuvyFT2/view?usp=share_link"><b>My CV</b><br /></a>
+> **Contact me:** <a target="_blank" href="mailto:hello@paulinekraus.com"><b>hello@paulinekraus.com</b></a>  
+<br />
 
 ## My Stack
 <br />
@@ -19,21 +24,21 @@ As a developer, I approach every project with a keen eye for aesthetics. I belie
 
 rsvd is a personal project, powered by Next.js and Tailwind, that showcases a fictional design agency. Visitors can explore this modern website and play with RSVD's artistic vision through interactive tiles, creating a fun and immersive user experience. The website's user interactivity adds an element of enjoyment, reflecting RSVD's creative approach to design and meticulous attention to detail.
 
-> check the repo  |  check the website
+> <a href="https://github.com/ThisisPauline/tiles-behond-visible">check the repo</a>  |  <a href="https://storied-kringle-3e6f13.netlify.app/" >check the website</a>
 
 ### Leave Your Mark
 <img src="https://i.imgur.com/SeIV9sp.jpg" width="auto" height="300" />
 
 Leave Your Mark is a personal project showcasing a design studio and visual lab's approach and services. Built with HTML, CSS, and JavaScript, the website features unique UI and user interactivity. Through an engaging user experience, it demonstrates the potential of creativity and technology to elevate user experiences and make a lasting impression.
 
-> check the repo  |  check the website
+> <a href="https://github.com/ThisisPauline/Leave-Your-Mark">check the repo</a>  |  <a href="https://frolicking-choux-bffaa5.netlify.app/">check the website</a>
 
 ### Suni
 <img src="https://i.imgur.com/ZGzIZuA.jpg" width="auto" height="300" />
 
 Suni is a sleek weather app available on desktop and mobile platforms. Built with React and two reliable APIs, it delivers up-to-date weather information, including current conditions, hourly/daily forecasts, humidity, and feels-like data. Suni's user-friendly interface features a modern design with light/dark modes, making it an app users will enjoy using every day, rain or shine!
 
-> check the repo  |  check the website
+> <a href="https://github.com/WildCodeSchool/2022-09-JS-RemoteEN-Project-2-Team-2">check the repo</a>  |  <a href="https://suniweather.wcs-student-projects.d-a-pfeiffer.info/">check the website</a>
 
 ## About me 
 
