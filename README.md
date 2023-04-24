@@ -47,3 +47,6 @@ Suni is a sleek weather app available on desktop and mobile platforms. Built wit
 
 > <a href="https://github.com/WildCodeSchool/2022-09-JS-RemoteEN-Project-2-Team-2">check the repo</a>  |  <a href="https://suniweather.wcs-student-projects.d-a-pfeiffer.info/">check the website</a>
 
+<br /><br />
+## Let's connect on <a target="_blank" href="https://www.linkedin.com/in/pauline-kraus/"><b>LinkedIn</b></a> or at <a target="_blank" href="mailto:hello@paulinekraus.com"><b>hello@paulinekraus.com</b></a>!
+<br />
