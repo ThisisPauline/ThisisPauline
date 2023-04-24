@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ThisisPauline
-- 👀 I’m interested in developing a network of like-minded developers
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate with businesses in Germany as a front-end developer
-- 📫 How to reach me: you can contact me at kraus.pauline1@gmail.com
+# <img src="https://portfolio-thisispauline.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdonut-blue.522058c8.png&w=640&q=75" height="100" width="100" /> Hi, I'm Pauline
 
+![banner](https://i.imgur.com/TrqBepe.jpg)
+
+
+## My Stack
 
