@@ -3,6 +3,12 @@
 ![banner](https://i.imgur.com/fzSCYCt.jpg)
 <br /><br />
 
+## About me 
+
+Born in Paris, I’ve lived in the sunny south of Spain for the past four years. Adapting to life in a foreign country has taught me valuable skills in resilience, adaptability, and cross-cultural communication. After five years in the publishing industry, I felt the urge to pursue a new challenge and decided to retrain as a Full Stack Web Developer at Wild Code School. I'm now eager to embark on the next phase of my career as a Frontend Developer, as my true passion lies in crafting visually stunning, pixel-perfect designs.
+<br />
+<br />
+
 > **Find me:** <a target="_blank" href="https://www.linkedin.com/in/pauline-kraus/"><b>LinkedIn</b></a>  | <a target="_blank" href="https://portfolio-thisispauline.vercel.app/"><b>My Website</b></a><br />
 > **Learn more about me:** <a target="_blank" href="https://drive.google.com/file/d/1Cs35SU6-t5wk9ONO05Gsa5H9-cuvyFT2/view?usp=share_link"><b>My CV</b><br /></a>
 > **Contact me:** <a target="_blank" href="mailto:hello@paulinekraus.com"><b>hello@paulinekraus.com</b></a>  
@@ -40,8 +46,3 @@ Suni is a sleek weather app available on desktop and mobile platforms. Built wit
 
 > <a href="https://github.com/WildCodeSchool/2022-09-JS-RemoteEN-Project-2-Team-2">check the repo</a>  |  <a href="https://suniweather.wcs-student-projects.d-a-pfeiffer.info/">check the website</a>
 
-## About me 
-
-<img src="https://portfolio-thisispauline.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FprofilePicture.b95eb14f.png&w=750&q=75" width="auto" height="300" />
-
-Born in Paris, I’ve lived in the sunny south of Spain for the past four years. Adapting to life in a foreign country has taught me valuable skills in resilience, adaptability, and cross-cultural communication. After five years in the publishing industry, I felt the urge to pursue a new challenge and decided to retrain as a Full Stack Web Developer at Wild Code School. I'm now eager to embark on the next phase of my career as a Frontend Developer, as my true passion lies in crafting visually stunning, pixel-perfect designs.
