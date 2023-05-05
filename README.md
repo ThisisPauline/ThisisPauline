@@ -9,7 +9,7 @@ Born in Paris, I’ve lived in the sunny south of Spain for the past four years.
 <br />
 <br />
 
-> **Find me:** <a target="_blank" href="https://www.linkedin.com/in/pauline-kraus/"><b>LinkedIn</b></a>  | <a target="_blank" href="https://portfolio-thisispauline.vercel.app/"><b>My Website</b></a><br />
+> **Find me:** <a target="_blank" href="https://www.linkedin.com/in/pauline-kraus/"><b>LinkedIn</b></a>  | <a target="_blank" href="https://paulinekraus.com/"><b>My Website</b></a><br />
 > **Learn more about me:** <a target="_blank" href="https://drive.google.com/file/d/1Cs35SU6-t5wk9ONO05Gsa5H9-cuvyFT2/view?usp=share_link"><b>My CV</b><br /></a>
 > **Contact me:** <a target="_blank" href="mailto:hello@paulinekraus.com"><b>hello@paulinekraus.com</b></a>  
 <br />
